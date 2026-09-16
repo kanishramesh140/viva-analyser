@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+server/data/faculty/*
+!server/data/faculty/.gitkeep
+server/data/faculty_accounts.json
+server/data/subject_faculty.json
