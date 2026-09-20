@@ -1,0 +1,10 @@
+{
+  "Digital Signal Processing": {
+    "topic": "DFT and FFT",
+    "notes": "The Discrete Fourier Transform (DFT) converts a finite-length discrete-time signal from the time domain into the frequency domain.\n\nDFT equation:\nX(k) = Σ[n=0 to N-1] x(n)e^(-j2πkn/N)\n\nThe Inverse DFT converts frequency-domain values back to the time domain.\n\nFFT (Fast Fourier Transform) is an efficient algorithm for calculating the DFT.\n\nImportant concepts:\n1. DFT represents the frequency components of a discrete signal.\n2. FFT computes the same DFT result more efficiently.\n3. Direct DFT has O(N²) computational complexity.\n4. Radix-2 FFT has O(N log₂N) complexity.\n5. Twiddle factor is W_N^k = e^(-j2πk/N).\n6. Butterfly operation is the basic computational unit of FFT.\n7. DIT FFT means Decimation-in-Time FFT.\n8. DIF FFT means Decimation-in-Frequency FFT.\n9. FFT is used in signal analysis, audio processing, image processing and communication systems.\n\nViva questions:\n- What is DFT?\n- Why is FFT faster than DFT?\n- What is a twiddle factor?\n- What is a butterfly operation?\n- What is the difference between DIT and DIF FFT?\n- What is the computational complexity of DFT?\n- What is the computational complexity of FFT?",
+    "faculty": [
+      "kanishtest101",
+      "wera"
+    ]
+  }
+}

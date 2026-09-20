@@ -1,0 +1,30 @@
+[
+  {
+    "studentId": "24bec065",
+    "username": "vera",
+    "name": "KANI",
+    "passwordHash": "adb3e372d314c2f4ebd704c1293a28df9ee5a0d3d7fd6a9ca2c6be050ae5fcef4fb399e0b4befbf2d2d43a9ab76439e0fb946b1f238b460d96ff8b591b21001f",
+    "passwordSalt": "057a568bd41d7a021e36d3cec0ea77bd",
+    "recoverySalt": "3fc39de989a1129765fba7434c68c719",
+    "recoveryHash": "e8a2775b4c74772758643d0fa5b0cb40bdcf341f0fcc11e614daa963321d828474cb6eb1d8adb5f64b90ad6748b994142eaddb0cd3833b42645e1ce087c6c1f9",
+    "createdAt": "2026-09-20T16:26:21.614Z",
+    "failedAttempts": 0,
+    "lockedUntil": null,
+    "facultyUsername": "kanishtest101",
+    "subjects": [
+      "Digital Signal Processing"
+    ],
+    "progress": {
+      "Digital Signal Processing": {
+        "currentTier": "easy",
+        "mastery": "NOT_STARTED",
+        "askedQuestionIds": [],
+        "attempts": 0,
+        "correct": 0,
+        "hintsUsed": 0,
+        "topics": {},
+        "lastActivityAt": null
+      }
+    }
+  }
+]

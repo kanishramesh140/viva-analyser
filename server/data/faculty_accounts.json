@@ -1,0 +1,38 @@
+[
+  {
+    "role": "faculty",
+    "username": "kanishtest101",
+    "name": "Kanish",
+    "passwordHash": "69ed6c866712d75c4f586991e802b1206d8fda5acdb2c8248a09a986c126e6ee556b8cebb5ed50bd89b3eac7d87773a93524ea1415fb5491b58bfcda450a4b65",
+    "passwordSalt": "cbe70abcb8f8958a3ce66e7d6c2f1851",
+    "recoverySalt": "bb3ce13ca932dd6ea6f7b0f81f8978e1",
+    "recoveryHash": "6f8655f9f57658e5b511758abd3580a71a02d7c1ef01b4cfc84b7df103fdc4c5c1a22a84f32ecd581de64165c6a33c9422b40b423436965360335a11c0eada06",
+    "createdAt": "2026-09-20T15:46:17.771Z",
+    "failedAttempts": 0,
+    "lockedUntil": null
+  },
+  {
+    "role": "faculty",
+    "username": "kanishk",
+    "name": "KANISHK",
+    "passwordHash": "3e72961f32d2ac86fe7a4cb666d9c2e23b2e0d2949534fc924fb8614f61a5e9333c8473dd4ab4a8b730721a86ecdf47864a02c8a0fc6fb2e66aa5150b95f166b",
+    "passwordSalt": "de392e25ab805bd81132147bea9ef7d4",
+    "recoverySalt": "bbd793075b4612cd73ca0cc49f9ed777",
+    "recoveryHash": "7d054cc73c01d3b7ce6462fd7fb18b86024db8e576113687ab5069f9fc347d43cce60570f22ef519612f58b88d5ef92c9919b9dd75cd10f9d5e71284b7113869",
+    "createdAt": "2026-09-20T16:06:41.021Z",
+    "failedAttempts": 0,
+    "lockedUntil": null
+  },
+  {
+    "role": "faculty",
+    "username": "wera",
+    "name": "KANISHK R",
+    "passwordHash": "fd2b2d6f47f07ae38c1191645b5d1e16056d0ab7b0467b1875c0e97c4cc59111877020b3b6c2b7f53adf99ac0e587746a09f472ea3c60560492b258de821c39d",
+    "passwordSalt": "7856eb67951d7fde8a1b448616030e7d",
+    "recoverySalt": "cd77b1352e2fa66dd3c693eac6a83dfe",
+    "recoveryHash": "88310912e0e0d383669ffbd2c20bfe3189977161e4109b9f67a69f725fed8f3d8f4e503a1c62bd19363b820cd1cb7731beecdd76897c87c84395cd48498fc569",
+    "createdAt": "2026-09-20T16:24:17.450Z",
+    "failedAttempts": 0,
+    "lockedUntil": null
+  }
+]

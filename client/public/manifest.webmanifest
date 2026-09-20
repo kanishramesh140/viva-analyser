@@ -1,0 +1,10 @@
+{
+  "name": "Viva Analyser",
+  "short_name": "Viva Analyser",
+  "description": "Local adaptive viva examination and learning platform",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#172033",
+  "orientation": "portrait-primary"
+}
